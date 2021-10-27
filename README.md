@@ -16,3 +16,5 @@ Utiliza autenticação pelo **Github OAuth**
 Será utilizado para projeto Front-End Web e Mobile com React.js e React-Native.
 
 Obrigado @rocketseat-education essa Stage 1 foi top!
+
+![Languages](https://img.shields.io/github/languages/top/nilsonsierota/node_heat)
