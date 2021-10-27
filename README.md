@@ -1,4 +1,5 @@
 ![Languages](https://img.shields.io/github/languages/top/nilsonsierota/node_heat)
+![Languages Count](https://img.shields.io/github/languages/count/nilsonsierota/node_heat)
 
 Esse projeto é para o **NLW Heat**, ele é o **BackEnd** em Node.js
 
