@@ -17,4 +17,4 @@ Utiliza autenticação pelo **Github OAuth**
 
 Será utilizado para projeto Front-End Web e Mobile com React.js e React-Native.
 
-Obrigado @rocketseat-education essa Stage 1 foi top!
+Obrigado [Rocketseat](https://github.com/Rocketseat) essa Stage 1 foi top!
